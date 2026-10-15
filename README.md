@@ -1,2 +1,3 @@
-# packet-tracer-ip-troubleshooting
-My first networking project: troubleshooting IP addressing and verifying connectivity in Cisco Packet Tracer.
+# small-office-network-design
+My first networking project: A beginner networking project simulating a small office LAN using Cisco Packet Tracer
+
